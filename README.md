@@ -1,1 +1,1 @@
-# xebia_webinar
+# github-actions-example
